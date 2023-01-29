@@ -1,0 +1,5 @@
+.idea/
+battle
+player
+log*.txt
+player*.fifo
